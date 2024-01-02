@@ -1,10 +1,10 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mohammad Siraj
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I am Mohammad Siraj
 ======================================================================================================================================
 
 Backend go developer
 --------------------
 
-I've been working as a backend developer focusing on go lang with technologies such as Apache kafka, grpc etc. Still very new to the field and a quick learning atitude
+I've been working as a backend developer focusing on go lang with technologies such as Apache kafka, grpc etc. Still very new to the field and a quick learning attitude
 
 *   🌍  I'm based in Bhimavaram, Andhra Pradesh ,India
 *   ✉️  You can contact me at [mail2mrsiraj@gmail.com](mailto:mail2mrsiraj@gmail.com)
